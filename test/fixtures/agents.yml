@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+bourne:
+  codename: "Bourne"
+  level: 4
+  active: false
+
+bond:
+  codename: "Bond"
+  level: 7
+  active: true

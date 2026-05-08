@@ -51,7 +51,7 @@ class Quest2DataService
       key: :agents_with_missions,
       title: {
         ru: "Агенты и их миссии",
-        en: "Agents and their missions"
+        en: "Agent and their missions"
       },
       description: {
         ru: "Покажи каждому агенту его миссии.",
@@ -70,7 +70,7 @@ class Quest2DataService
       key: :agents_with_missions_sorted_by_mission_count,
       title: {
         ru: "Агенты и миссии по убыванию числа миссий",
-        en: "Agents and missions by mission count"
+        en: "Agent and missions by mission count"
       },
       description: {
         ru: "Отсортируй агентов по убыванию числа миссий и выведи их списки. Если у агентов одинаковое число миссий, отсортируй их по имени.",
@@ -89,7 +89,7 @@ class Quest2DataService
       key: :agents_with_skills,
       title: {
         ru: "Агенты и их навыки",
-        en: "Agents and their skills"
+        en: "Agent and their skills"
       },
       description: {
         ru: "Выведи список агентов и навыки каждого из них.",

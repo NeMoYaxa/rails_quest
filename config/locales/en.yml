@@ -87,7 +87,7 @@ en:
         intro: "Agent, welcome to AgentArchive — the central archive of the operations division. After NULL's strike the system forgot which agents exist, what skills they have, and which missions they are assigned to."
         domain_title: "Domain model"
         domain_items:
-          - "Agents — the system's field agents"
+          - "Agent — the system's field agents"
           - "Skills — capabilities of agents"
           - "Missions — tasks assigned to agents"
         steps_title: "Recovery steps"
